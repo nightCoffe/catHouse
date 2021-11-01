@@ -23,7 +23,7 @@ public class Residents {
 
         firstCat.haveFunDrinkALot();
         secondCat.getDrinkToDeath();
-        threeCat.getDrinkBrandyWithMeat();
+        threeCat.getDrinkMilkWithMeat();
 
         firstCat.sayGoodbye();
         secondCat.sayGoodbye();
