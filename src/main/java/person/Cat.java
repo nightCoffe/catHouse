@@ -17,7 +17,7 @@ public class Cat {
     }
 
     public void getDrinkBrandyWithMeat() {
-        System.out.println("Let's go drink brandy and eat meet!");
+        System.out.println("Let's go drink milk and eat meet!");
     }
 
     public void sayGoodbye() {
