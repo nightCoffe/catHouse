@@ -24,5 +24,9 @@ public class Residents {
         firstCat.haveFunDrinkALot();
         secondCat.getDrinkToDeath();
         threeCat.getDrinkBrandyWithMeat();
+
+        firstCat.sayGoodbye();
+        secondCat.sayGoodbye();
+        threeCat.sayGoodbye();
     }
 }
