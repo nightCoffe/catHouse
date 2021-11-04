@@ -1,7 +1,5 @@
 package person;
 
-import person.Cat;
-
 public class Residents {
     public static void main(String[] args) {
 
@@ -21,9 +19,9 @@ public class Residents {
         secondCat.sayHello();
         threeCat.sayHello();
 
-        firstCat.haveFunDrinkALot();
-        secondCat.getDrinkToDeath();
-        threeCat.getDrinkMilkWithMeat();
+        firstCat.goFunDrinkALot();
+        secondCat.printDrinkToDeath();
+        threeCat.printDrinkMilkWithMeat();
 
         firstCat.sayGoodbye();
         secondCat.sayGoodbye();
