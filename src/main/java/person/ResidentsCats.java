@@ -1,8 +1,8 @@
 package person;
 
-public class Cat {
-    String name;
-    int age;
+public class ResidentsCats {
+    public String name;
+    public int age;
 
     public void sayHello() {
         System.out.println("Hello, my name is " + this.name + " and I'm " + this.age);
@@ -13,7 +13,7 @@ public class Cat {
     }
 
     public void printDrinkToDeath() {
-        System.out.println("Let's go drink vodka!!!!");
+        System.out.println("Let's go drink whiskey!!!!");
     }
 
     public void printDrinkMilkWithMeat() {

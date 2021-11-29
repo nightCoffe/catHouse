@@ -1,17 +1,17 @@
 package person;
 
-public class Residents {
+public class AllResidents extends ResidentsCats{
     public static void main(String[] args) {
 
-        Cat firstCat = new Cat();
+        ResidentsCats firstCat = new ResidentsCats();
         firstCat.name = "Faster";
         firstCat.age = 5;
 
-        Cat secondCat = new Cat();
+        ResidentsCats secondCat = new ResidentsCats();
         secondCat.name = "Slowly";
         secondCat.age = 14;
 
-        Cat threeCat = new Cat();
+        ResidentsCats threeCat = new ResidentsCats();
         threeCat.name = "Crazy";
         threeCat.age = 2;
 
