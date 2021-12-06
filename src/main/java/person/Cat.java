@@ -9,15 +9,15 @@ public class Cat {
     }
 
     public void goFunDrinkALot() {
-        System.out.println("Let's go drink beer!");
+        System.out.println("Let's go drink coffee!");
     }
 
     public void printDrinkToDeath() {
-        System.out.println("Let's go drink vodka!!!!");
+        System.out.println("let's drink tea and talk about happy things!!!");
     }
 
     public void printDrinkMilkWithMeat() {
-        System.out.println("Let's go drink milk and eat meet!");
+        System.out.println("Let's go drink only water and eat bread!");
     }
 
     public void sayGoodbye() {
